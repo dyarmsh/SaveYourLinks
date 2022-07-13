@@ -1,7 +1,8 @@
 # Save Your Links!
 A chrome extension to save links so you never forget them
+*Programmed using HTML, CSS and JS*
 
-Programmed using HTML, CSS and JS
+The live link is [here](https://dyarmsh.github.io/SaveYourLinks/)! **Note: functionality will be missing.**
 
 ## How does this work?
 You can input custom links OR even save the URLs of the current tab you are in. The links persist in the extension even if you exit!
